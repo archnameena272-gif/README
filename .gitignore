@@ -1,0 +1,75 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# ==========================
+# Jupyter Notebook
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# YOLO Weights
+# ==========================
+*.weights
+*.backup
+
+# ==========================
+# Dataset
+# ==========================
+data/
+dataset/
+datasets/
+backup/
+
+# ==========================
+# Images and Videos (Optional)
+# Uncomment if you don't want
+# to upload sample media
+# ==========================
+# *.jpg
+# *.jpeg
+# *.png
+# *.bmp
+# *.gif
+# *.mp4
+# *.avi
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# IDE Files
+# ==========================
+.vscode/
+.idea/
+
+# ==========================
+# Operating System Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.temp
